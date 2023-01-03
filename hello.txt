@@ -3,3 +3,4 @@ test pull!
 test push!!
 test pull
 test ssh
+test ssh push
